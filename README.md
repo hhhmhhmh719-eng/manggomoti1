@@ -242,7 +242,7 @@
     </tr>
   </table>
   <footer>
-    <p>© 2025 manggomoti. All rights reserved.</p>
+    <p>© 2025 manggomoti1. All rights reserved.</p>
   </footer>
 
 </body>
